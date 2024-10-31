@@ -1,1 +1,0 @@
-# omc-sensor-management
